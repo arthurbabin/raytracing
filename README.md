@@ -1,5 +1,7 @@
 # Projet C++ Lancer de rayons
 
+![](./Rapport Projet/rendu_modele_phong.png "Rendu")
+
 ## Diagramme UML
 
 On présente les diverses classes :
